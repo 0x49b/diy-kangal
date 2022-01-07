@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "esp_attr.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}
