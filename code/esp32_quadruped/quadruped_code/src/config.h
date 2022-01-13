@@ -70,8 +70,8 @@
 #define BODY_MAX_ROLL               30.0f   // (unit:degree)
 #define BODY_MAX_MOVE_MULT          3.0f
 
-#define WIFI_SSID                   "yourssid"
-#define WIFI_PASSWORD               "yourpass"
+#define WIFI_SSID                   "I Can Haz Wireless?"
+#define WIFI_PASSWORD               "No Cheezburger !"
 
 /*
 *****************************************************************************************
