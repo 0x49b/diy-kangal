@@ -1,4 +1,4 @@
-# Welcome to Kangals Documentation
+# Welcome
 
     Kangal is under active development.
 

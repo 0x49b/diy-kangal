@@ -9,8 +9,6 @@ Get an Overview how the elecronics are wired together
 ![Schematic](https://raw.githubusercontent.com/lichtwellenreiter/diy-kangal/master/code/esp32_quadruped/pics/schematic.png "Schematic from Pinggu")
 
 
-
-.. _Parts:
 ## Parts
 
 ### Essential parts
