@@ -1,3 +1,13 @@
 site_name: Kangal
+site_url: https://kangal.readthedocs.io/
+repo_url: https://github.com/lichtwellenreiter/diy-kangal
+repo_name: diy-kangal
+site_author: lichtwellenreiter
 theme:
   name: readthedocs
+nav:
+  - 'index.md'
+  - 'electronics.md'
+  - 'config.md'
+  - 'assembly.md'
+  - 'code.md'
