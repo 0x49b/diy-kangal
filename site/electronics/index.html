@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>This is a Test - Kangal</title>
+  <title>Electronics - Kangal</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../css/theme.css" />
@@ -18,8 +18,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "This is a Test";
-    var mkdocs_page_input_path = "test.md";
+    var mkdocs_page_name = "Electronics";
+    var mkdocs_page_input_path = "electronics.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -51,8 +51,18 @@
                     </li>
                 </ul>
                 <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">This is a Test</a>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Electronics</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#schematics">Schematics</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#parts">Parts</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#essential-parts">Essential parts</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#optional-parts">Optional parts</a>
+    </li>
+        </ul>
+    </li>
     </ul>
                     </li>
                 </ul>
@@ -77,7 +87,7 @@
     
       
     
-    <li>This is a Test</li>
+    <li>Electronics</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -89,7 +99,94 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="this-is-a-test">This is a Test</h1>
+                <h1 id="electronics">Electronics</h1>
+<p>Here you will find everything about the used electronic components.</p>
+<h2 id="schematics">Schematics</h2>
+<p>Get an Overview how the elecronics are wired together</p>
+<p><img alt="Schematic" src="https://raw.githubusercontent.com/lichtwellenreiter/diy-kangal/master/code/esp32_quadruped/pics/schematic.png" title="Schematic from Pinggu" /></p>
+<p>.. _Parts:</p>
+<h2 id="parts">Parts</h2>
+<h3 id="essential-parts">Essential parts</h3>
+<table>
+<thead>
+<tr>
+<th>part name</th>
+<th>description</th>
+<th>unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ESP32 LOLIN32</td>
+<td>cpu</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PCA9658 module</td>
+<td>servo motor controller</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SPT5430HV-180W 8.4V</td>
+<td>HV servo motor</td>
+<td>12</td>
+</tr>
+<tr>
+<td>DC-DC buck converter</td>
+<td>7V-28V to 5V 3A</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1S3P 18650 battery</td>
+<td>lithium ion battery</td>
+<td>2</td>
+</tr>
+<tr>
+<td>WS2812 RGB LED</td>
+<td>RGB LED for eyes</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Round Rocker Switch</td>
+<td>Switch with LED</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="optional-parts">Optional parts</h3>
+<table>
+<thead>
+<tr>
+<th>part name</th>
+<th>description</th>
+<th>unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HX-2S-JH20</td>
+<td>lithium ion 2S charger</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PDC004-PD 9V</td>
+<td>usb-c PD decoy module</td>
+<td>1</td>
+</tr>
+<tr>
+<td>STPS2045C</td>
+<td>power shottky rectifier</td>
+<td>1</td>
+</tr>
+<tr>
+<td>battery indicator</td>
+<td>Lithium Battery Capacity Indicator</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<pre><code>Links where the parts can be bought will be added in the future.
+</code></pre>
               
             </div>
           </div>
