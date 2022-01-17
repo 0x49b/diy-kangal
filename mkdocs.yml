@@ -6,7 +6,7 @@ site_author: lichtwellenreiter
 theme:
   name: readthedocs
 nav:
-  - 'index.md'
+  - Welcome: 'index.md'
   - 'electronics.md'
   - 'config.md'
   - 'assembly.md'
