@@ -12,5 +12,4 @@ nav:
   - 'code.md'
   - 'config.md'
 plugins:
-    - search
-    - mkpdfs
+    - with-pdf
