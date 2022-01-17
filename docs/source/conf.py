@@ -29,6 +29,11 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 html_theme = 'alabaster'
+html_theme_options = {
+    'logo': 'https://ih1.redbubble.net/image.424837183.4243/st,small,507x507-pad,600x600,f8f8f8.u5.jpg',
+    'github_user': 'lichtwellenreiter',
+    'github_repo': 'diy-kangal',
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
