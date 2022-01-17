@@ -49,11 +49,4 @@ Parts
 
   .. note::
    Links where the parts can be bought will be added in the future.
-
-
-Contents
---------
-.. toctree::
-   index
-   config
    

@@ -14,9 +14,3 @@ All Configuration can be found in the file: https://github.com/lichtwellenreiter
 Config Parameters
 -------------------------
 The following table will give you an overview about each parameter.
-
-Contents
---------
-.. toctree::
-   index
-   config
