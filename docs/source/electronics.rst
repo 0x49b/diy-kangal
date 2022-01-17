@@ -50,4 +50,4 @@ Parts
   +---------------------+--------------------------------------+-----------+
 
   .. note::
-   Links wheres this parts can be bought will be added in the future.
+   Links where the parts can be bought will be added in the future.
