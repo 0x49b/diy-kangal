@@ -16,9 +16,7 @@ Code, .stl, .step Files and more can be found here https://github.com/lichtwelle
 
 Contents
 --------
-
 .. toctree::
-
    electronics
    config
    
