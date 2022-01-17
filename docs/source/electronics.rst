@@ -54,6 +54,6 @@ Parts
 Contents
 --------
 .. toctree::
-   electronics
+   index
    config
    

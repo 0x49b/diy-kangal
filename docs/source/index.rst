@@ -13,3 +13,9 @@ Kangal is a Quadruped Robot Dog based on the Work of Baris Alp. Check it out her
 
 Code, .stl, .step Files and more can be found here https://github.com/lichtwellenreiter/diy-kangal
    
+Contents
+--------
+.. toctree::
+   elecronics
+   config
+   
