@@ -8,7 +8,6 @@ theme:
 nav:
   - Welcome: 'index.md'
   - 'electronics.md'
-  - 'config.md'
   - 'assembly.md'
   - 'code.md'
-  
+  - 'config.md'
