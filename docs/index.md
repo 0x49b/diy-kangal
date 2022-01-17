@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Kangal
 
     Kangal is under active development.
 
