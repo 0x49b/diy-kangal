@@ -11,3 +11,6 @@ nav:
   - 'assembly.md'
   - 'code.md'
   - 'config.md'
+plugins:
+    - search
+    - mkpdfs
