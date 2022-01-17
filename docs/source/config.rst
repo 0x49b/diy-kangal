@@ -137,9 +137,10 @@ All Configuration can be found in the file: `https://github.com/lichtwellenreite
 
     #endif
 
-The following table will give you an overview about each parameter.
+
 
 
 .. _Config Parameters:
 Config Parameters
 -------------------------
+The following table will give you an overview about each parameter.
