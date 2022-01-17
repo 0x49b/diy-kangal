@@ -48,3 +48,6 @@ Parts
   +---------------------+--------------------------------------+-----------+
   | battery indicator   | Lithium Battery Capacity Indicator   | 1         |
   +---------------------+--------------------------------------+-----------+
+
+  .. note::
+   Links wheres this parts can be bought will be added in the future.
