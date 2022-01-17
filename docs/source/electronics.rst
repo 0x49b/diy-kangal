@@ -1,8 +1,7 @@
 Electronics
-=====
+=============
 
 .. _Schematics:
-
 Schematics
 ------------
 
@@ -14,7 +13,6 @@ Get an Overview how the elecronics are wired together
 
 
 .. _Parts:
-
 Parts
 ------------
 **Essential Parts**
