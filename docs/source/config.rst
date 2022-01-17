@@ -6,6 +6,8 @@ Config Files
 -----------------
 All Configuration can be found in the file: https://github.com/lichtwellenreiter/diy-kangal/blob/master/code/esp32_quadruped/quadruped_code/src/config.h
 
+.. code-block:: c++
+  #include <Arduino.h>
   
 
 .. _Config Parameters:
