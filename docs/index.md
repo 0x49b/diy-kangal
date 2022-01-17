@@ -1,6 +1,6 @@
 # Welcome to Kangal
 
-    Kangal is under active development.
+    Kangal is under active development to provide you with a complete documentation.
 
 ![Kangal by Baris Alp](https://raw.githubusercontent.com/lichtwellenreiter/diy-kangal/master/assets/kangal-front.jpg "Kangal by Baris Alp")
 
